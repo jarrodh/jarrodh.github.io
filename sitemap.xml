@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jarrodhermer.net/</loc>
+    <loc>https://jarrodhermer.net/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/blog/</loc>
+    <loc>https://jarrodhermer.net/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/tags/markdown/</loc>
+    <loc>https://jarrodhermer.net/tags/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/blog/markdown-syntax/</loc>
+    <loc>https://jarrodhermer.net/blog/markdown-syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/tags/syntax/</loc>
+    <loc>https://jarrodhermer.net/tags/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/tags/</loc>
+    <loc>https://jarrodhermer.net/tags/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jarrodhermer.net/categories/</loc>
+    <loc>https://jarrodhermer.net/categories/</loc>
   </url>
   
 </urlset>
